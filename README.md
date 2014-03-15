@@ -3,4 +3,4 @@ zAlert
 
 Android application for getting alerts 
 
-![alt tag](https://github.com/sanjay444/zAlert/blob/master/screenShots/Screenshot_2014-02-27-14-24-02.png)
+![](screenShots/Screenshot_2014-02-27-14-24-02.png)
