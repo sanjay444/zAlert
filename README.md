@@ -2,4 +2,4 @@ zAlert
 ======
 
 Android application for getting alerts 
-![My image](sanjay444.github.com/zAlert/screenShots/Screenshot_2014-02-27-14-24-02.png)
+https://github.com/sanjay444/zAlert/blob/master/screenShots/Screenshot_2014-02-27-14-24-02.png
